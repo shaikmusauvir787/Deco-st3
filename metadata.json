@@ -1,0 +1,6 @@
+{
+  "name": "DECO Course Hub & AI Syllabus Portal (U24EC304)",
+  "description": "Digital Electronics & Computer Organization (U24EC304) interactive syllabus, 60-lecture tracker, hardware simulators, Drive sync, and NBA CO-PO-PSO portal for LIET Autonomous (LR24 Regulation).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
